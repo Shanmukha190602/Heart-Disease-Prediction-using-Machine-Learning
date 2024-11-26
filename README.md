@@ -1,4 +1,4 @@
-**Environments used:** **Google Colab **upto the 2nd phase. For the 3rd phase and final phase **Jupyter notebook** is used.
+**Environments used:** **Google Colab** upto the 2nd phase. For the 3rd phase and final phase **Jupyter notebook** is used.
 
 As part of Machine Learning Laboratory course in MTech Degree , I have done Term project on **Heart Disease Prediction**.
 
